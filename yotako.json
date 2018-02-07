@@ -1,7 +1,7 @@
 {
     "yotako":
     {
-        "description": "Presentation in impressjs done .",
+        "description": "impress.js presentation automatically created with www.yotako.io from a balsamiq design.",
         "name": "yotako-jsmeetup-impressjs",
         "version": "^1.0.0",
         "yotako-version": "^1.0.0",
