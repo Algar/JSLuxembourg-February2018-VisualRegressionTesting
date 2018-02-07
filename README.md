@@ -8,6 +8,10 @@ Created with :heart: by [Yotako](https://www.yotako.io) :octopus:
 
 The slides have been automatically generated from the [Balsamiq](https://www.balsamiq.com) design available in /design with [Yotako](https://www.yotako.io).
 
+For those asking for trying out Yotako, you can sign up for free here:
+
+https://www.yotako.io/auth/the-super-hidden-private-signup-url
+
 
 ## License
 
